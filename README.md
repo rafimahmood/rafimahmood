@@ -1,4 +1,4 @@
-# Hi, I'm Rafi 👋
+# Hi, I'm Rafi 
 London-based, with an engineering background (studied Mechanical Engineering at Newcastle University). Now building with AI.
 
 **What I'm working on**
